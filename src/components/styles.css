@@ -1,0 +1,40 @@
+.container{
+    background-image: linear-gradient(#def5fa,  #65c7f7);
+    box-shadow: 2px 1px #cbcbcb;
+    margin: auto;
+    width: 50%;
+    padding: 50px;
+    margin-top: 41px;
+    border-radius: 8px;
+}
+.temp{
+     font-size: 70px;
+}
+.location{
+    font-size: 100px;
+}
+.forecast{
+    display: flex;
+    justify-content: space-between;
+}
+.btn {
+    padding: 8px;
+    width: 75px;
+    font-weight: bold;
+    background: #c7c7b4;
+    border-radius: 8px;
+    cursor: pointer;
+}
+input{
+  padding: 5px;
+  margin-right: 8px;
+  width: 300px;
+  box-shadow: 2px 1px #cbcbcb;
+}
+.date{
+    font-weight: bold;
+    margin-right: 20px;
+}
+.temprature{
+   margin-top: 10px;
+}
